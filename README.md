@@ -23,7 +23,7 @@ python3 -m venv env
 ```bash
 source env/bin/activate
 ```
-### All below commands are to be run inside `gittalks` directory
+### All below commands are to be run inside `docSearchAzureAI` directory
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
